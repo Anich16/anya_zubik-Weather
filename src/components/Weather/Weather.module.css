@@ -1,0 +1,93 @@
+.weatherBlock {
+    margin: 20px;
+    width: auto;
+    display: inline-block;
+    border: 1px solid #000;
+    background-color: darksalmon;
+    max-width: 700px;
+    padding: 5px;
+}
+
+.mapBlock {
+    text-align: center;
+}
+
+.imgMap {
+    width: auto;
+    display: block;
+}
+
+.interrogationBlock {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.text {
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+}
+
+.info {
+    text-align: center;
+    color: darkred;
+    font-size: 18px;
+    margin: 0;
+}
+
+.excellent {
+    text-align: center;
+    color: green;
+    font-size: 18px;
+    margin: 0;
+}
+
+.buttonYes, .buttonNo {
+    padding: 5px 10px;
+    margin-left: 10px;
+
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 800;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.buttonMap {
+    display: block;
+    border: none;
+    background-color: darksalmon;
+    padding: 5px 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    color: #000;
+    border-bottom: 1px solid #000;
+}
+
+.buttonMap:hover {
+    border-bottom: 1px solid transparent;
+    color: blue;
+}
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.field {
+    width: 200px;
+    padding: 5px 10px;
+    font-size: 18px;
+}
+
+.button {
+    padding: 3px 10px;
+    font-size: 17px;
+    font-weight: 800;
+}
+

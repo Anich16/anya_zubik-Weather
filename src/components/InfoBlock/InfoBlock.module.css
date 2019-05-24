@@ -1,0 +1,9 @@
+.infoBlock {
+    display: inline-block;
+    margin-top: 15px;
+    margin-right: 10px;
+    padding: 15px;
+    border: 1px solid #000;
+    width: auto;
+    background-color: bisque;
+}
